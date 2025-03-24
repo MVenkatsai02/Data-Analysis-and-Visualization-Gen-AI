@@ -1,0 +1,38 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment variables and credentials
+.env
+
+# Ignore Streamlit cache and logs
+.streamlit/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore compiled Python files
+*.pyo
+
+# Ignore pickle files
+*.pkl
+
+# Ignore data files
+*.csv
+*.xlsx
+*.json
+*.parquet
+*.feather
+*.dta
+*.sav

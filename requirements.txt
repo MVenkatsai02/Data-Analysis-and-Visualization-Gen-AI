@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scipy
+scikit-learn
+streamlit
+openpyxl  # For Excel file support
+google-generativeai  # For Gemini 1.5 Flash API
+chardet
+faiss-cpu
+
