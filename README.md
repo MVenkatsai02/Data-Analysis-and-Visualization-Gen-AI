@@ -28,7 +28,7 @@ ml-preprocessing-app/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/ml-preprocessing-app.git
+git clone https://github.com/MVenkatsai02/Data-Analysis-and-Visualization-Gen-AI
 cd ml-preprocessing-app
 ```
 
