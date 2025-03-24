@@ -190,7 +190,7 @@ def ask_gemini(missing_values, duplicates, summary):
 
 
 def main():
-    st.title("ML Preprocessing Flowchart App")
+    st.title("AI Preprocessing and visualization")
     st.sidebar.header("Upload Your Dataset")
     uploaded_file = st.sidebar.file_uploader("Choose a file", type=["csv", "xlsx","json","html","parquet","feather","pkl","dta","sav"])
     
