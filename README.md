@@ -1,4 +1,4 @@
-# 🚀 ML Preprocessing Flowchart App
+# 🚀 AI Analysis and Visualization App
 
 A Streamlit-based AI-powered application that automates dataset preprocessing by analyzing missing values, duplicates, and summary statistics. It utilizes Gemini 1.5 Flash to provide structured preprocessing recommendations for machine learning and deep learning models.
 
